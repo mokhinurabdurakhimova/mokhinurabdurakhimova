@@ -2,7 +2,9 @@ Hi 👋🏻, I am Mokhinur!
 Computer Vision Developer in Uzbekistan
 
  💻 Core Stack: Python, C++
+ 
  🌱 I'm currently learning Data Sciense Technologies in Python + databases (PostgreSQL) + NLP
+ 
  📩 Ask me about Python, Machine Learning or any tech related stuff
 
    🚀 Some of my main projects:
