@@ -1,4 +1,5 @@
 Hi 👋🏻, I am Mokhinur!
+
 Computer Vision Developer in Uzbekistan
 
  💻 Core Stack: Python, C++
