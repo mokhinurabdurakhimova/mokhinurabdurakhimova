@@ -4,7 +4,7 @@ Computer Vision Developer in Uzbekistan
 
  💻 Core Stack: Python, C++
  
- 🌱 I'm currently learning Data Sciense Technologies in Python + databases (PostgreSQL) + NLP
+ 🌱 I'm currently learning Data Sciense Technologies in Python + R + databases (PostgreSQL) 
  
  📩 Ask me about Python, Machine Learning or any tech related stuff
 
