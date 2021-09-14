@@ -1,21 +1,33 @@
-Hi 👋🏻, I am Mokhinur!
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
 
-Computer Vision Developer in Uzbekistan
 
- 💻 Core Stack: Python, C++
- 
- 🌱 I'm currently learning Data Sciense Technologies in Python + R + databases (PostgreSQL) 
- 
- 📩 Ask me about Python, Machine Learning or any tech related stuff
+class SoftwareEngineer:
+    def __init__(self):
+        self.name = "Mokhinur Abdurakhimova"
+        self.position = "Computer Vision Engineer"
+        self.location = "Tashkent, Uzbekistan"
+        self.skills = [
+            "Software Engineering",
+            "Data Science",
 
-   🚀 Some of my main projects:
-  
-🔍 I'm currently working on a Projects in openCV and another poroject with Golang and PostgreSQL
+        ]
+        self.skills.insert(0, "Computer Vision and Deep Learning")
 
-Connect with me
-📥📃
+    def greeting(self):
+        print(
+            """Hello folks!
 
-<!---
-mokhinurabdurakhimova/mokhinurabdurakhimova is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+This is {name}, I live in {location}. I am a student at National University and recently I am focusing on {focus} for my personal growth.
+
+I have many interests, but most of them are {skills}. I like solving complex logic tasks and enjoy while coding""".format(
+                name=self.name,
+                location=self.location,
+                focus=self.skills[0],
+                skills=", ".join(self.skills[1:]),
+            )
+        )
+
+
+me = SoftwareEngineer()
+me.greeting()
