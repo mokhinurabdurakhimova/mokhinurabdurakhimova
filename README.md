@@ -30,4 +30,4 @@ I have many interests, but most of them are {skills}. I like solving complex log
 
 
 me = SoftwareEngineer()
-me.greeting()
+me.greeting(())
