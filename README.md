@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoshlikMedia&show_icons=true&theme=react )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mokhinurabdurakhimova&show_icons=true&theme=react )
 <!--
 **mokhinurabdurakhimova/mokhinurabdurakhimova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
