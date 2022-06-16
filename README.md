@@ -1,15 +1,15 @@
-# Hi there, I'm Dimitre Oliveira 👋
+# Hi there, I'm Mokhinur Abdurakhimova 👋
 ## Here is a brief introduction about myself.
 Currently working as a data scientist.
 Interests on AI, data science, machine learning and related fields.
 ---
 ### 📫 How to reach me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/dimitreOliveira)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/dimitre-oliveira-7a1a0113a/)
-<a href="https://www.kaggle.com/dimitreoliveira">
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)]([https://github.com/dimitreOliveira](https://github.com/mokhinurabdurakhimova))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/dimitre-oliveira-7a1a0113a/](https://www.linkedin.com/in/mokhinur-abdurakhimova-9256b720a))
+<a href="https://www.kaggle.com/mohinurabdurahimova">
   <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:dimitreandrew@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mokhinurabdurakhimova@gmail.com)
 ---
 ### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
 ### These are some articles I have written :pencil:
