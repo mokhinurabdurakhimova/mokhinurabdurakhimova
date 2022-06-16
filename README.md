@@ -5,20 +5,14 @@ Interests on AI, data science, machine learning and related fields.
 ---
 ### 📫 How to reach me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokhinurabdurakhimova)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mokhinur-abdurakhimova-9256b720a))
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mokhinur-abdurakhimova-9256b720a)
 <a href="https://www.kaggle.com/mohinurabdurahimova">
   <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
 </a>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:mokhinurabdurakhimova@gmail.com)
 ---
 ### Here is my [data science & machine learning portfolio](https://github.com/dimitreOliveira/MachineLearning) :robot:
-### These are some articles I have written :pencil:
-- [Melanoma Classification: Getting a medal on a Kaggle competition](https://medium.com/analytics-vidhya/melanoma-classification-getting-a-medal-on-a-kaggle-competition-4e4ebf1a16b9)
-- [Efficiently Using TPU for Image Classification](https://medium.com/swlh/efficiently-using-tpu-for-image-classification-ed20d2970893)
-- [Building complex image augmentation pipelines with Tensorflow](https://pub.towardsai.net/building-complex-image-augmentation-pipelines-with-tensorflow-bed1914278d2)
-- [Supervised Contrastive Learning for Cassava Leaf Disease Classification](https://pub.towardsai.net/supervised-contrastive-learning-for-cassava-leaf-disease-classification-9dd47779a966)
-- [Writing TFRecord Files the Right Way](https://pub.towardsai.net/writing-tfrecord-files-the-right-way-7c3cee3d7b12)
-- [A Gentle Introduction to Audio Classification With Tensorflow](https://pub.towardsai.net/a-gentle-introduction-to-audio-classification-with-tensorflow-c469cb0be6f5)
+
 ### Here are some talks I gave :teacher:
 - Using TPUs for computer vision - Kaggle Days Meetup Delhi NCR (11/07/2020) [English]
   - [Video](https://youtu.be/wYeYhlB4KX8) | [Slides](https://docs.google.com/presentation/d/1CeAGc5_0HP6aj1LaZh97i1pRbQ67Ci5JFJxUqhDMwRk/edit?usp=sharing)
