@@ -1,6 +1,9 @@
 # Hi there, I'm Mokhinur Abdurakhimova 👋
+
 ## Here is a brief introduction about myself.
+
 Currently working as a data scientist.
+
 Interests on AI, data science, machine learning and related fields.
 ---
 
