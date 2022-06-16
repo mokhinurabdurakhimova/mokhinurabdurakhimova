@@ -4,8 +4,8 @@ Currently working as a data scientist.
 Interests on AI, data science, machine learning and related fields.
 ---
 ### 📫 How to reach me 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokhinurabdurakhimova))
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/dimitre-oliveira-7a1a0113a/](https://www.linkedin.com/in/mokhinur-abdurakhimova-9256b720a))
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/mokhinurabdurakhimova)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mokhinur-abdurakhimova-9256b720a))
 <a href="https://www.kaggle.com/mohinurabdurahimova">
   <img src="https://www.dataapplab.com/wp-content/uploads/2017/06/kaggle-logo-gray-300.png" width="60px" height="20px">
 </a>
