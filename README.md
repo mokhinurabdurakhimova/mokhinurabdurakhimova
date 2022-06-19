@@ -22,7 +22,7 @@ Interests on AI, data science, machine learning and related fields.
 - Profession Data Science! Who is Data Analyst? - UzPython meetup Tashkent (17/05/2022) [Russian]
   - [Video](https://youtu.be/bkWrI_3Wskg) | [Slides](https://docs.google.com/presentation/d/13_OmhWulFWDraWAdJZ5MVGULOcPTSQdo/edit?usp=sharing&ouid=108562133823348472507&rtpof=&sd=true)
 - Axborot texnologiyalarida ayollarning o'rni - MohirDev meetup Tashkent (02/20/2020) [Uzbek]
-  - [Video](https://youtu.be/nBNVfZCwl9M) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
+  - [Video](https://youtu.be/KZQw2pwBepI) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
 
 
 
