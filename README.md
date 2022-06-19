@@ -19,37 +19,22 @@ Interests on AI, data science, machine learning and related fields.
 ### Here is my [data science & machine learning portfolio](https://www.kaggle.com/mohinurabdurahimova/code) :robot:
 
 ### Here are some talks I gave :teacher:
-- Profession Data Science! Who is Data Analyst? - UzPython Meetup Tashkent (17/05/2022) [Russian]
-  - [Video](https://youtu.be/wYeYhlB4KX8) | [Slides](https://docs.google.com/presentation/d/13_OmhWulFWDraWAdJZ5MVGULOcPTSQdo/edit?usp=sharing&ouid=108562133823348472507&rtpof=&sd=true)
-- Supervised Contrastive Learning - TensorFlow Everywhere Brasil (02/20/2020) [Portuguese-BR]
-  - [Video](https://youtu.be/flo3uno3jgc) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
-- Using computer vision for diabetic retinopathy detection - Datarisk Meetup (06/17/2021) [Portuguese-BR]
-  - [Video](https://youtu.be/ma3kSfWmy3k) | [Slides](https://docs.google.com/presentation/d/1-6r2Iib8wfpTyBhHhw8N4GKRaV3frkwH_RNG0OGcFTI/edit?usp=sharing)
-- How to build a data science portfolio | Kaggle #30daysofML 2021 (20/08/2021) [English]
-  - [Video](https://youtu.be/bsSlQ5mhdLU) | [Slides](https://docs.google.com/presentation/d/1AMNQqx3f4fiNzN_-qa7ft8TqRjCoN73-hWOAyKh3uvQ/edit?usp=sharing)
-- Interview with Dimitre Oliveira, contributor to Google's Dev Library | Dev Library and open source (26/08/2021) [English]
-  - [Video](https://youtu.be/_vP6ait732o) | [Dev Library](https://devlibrary.withgoogle.com/authors/dimitreoliveira)
+- Profession Data Science! Who is Data Analyst? - UzPython meetup Tashkent (17/05/2022) [Russian]
+  - [Video](https://youtu.be/bkWrI_3Wskg) | [Slides](https://docs.google.com/presentation/d/13_OmhWulFWDraWAdJZ5MVGULOcPTSQdo/edit?usp=sharing&ouid=108562133823348472507&rtpof=&sd=true)
+- Axborot texnologiyalarida ayollarning o'rni - MohirDev meetup Tashkent (02/20/2020) [Uzbek]
+  - [Video](https://youtu.be/nBNVfZCwl9M) | [Slides](https://docs.google.com/presentation/d/1riVGVqPp_g2ZTkib0MRxjKzdCiQ9SR1y1yUk6UanVMo/edit?usp=sharing)
+
 
 
 ### And here are some of the projects I have worked with
 
 - :framed_picture: Computer vision
-  - [APTOS 2019 Blindness Detection](https://github.com/dimitreOliveira/APTOS2019BlindnessDetection) [Bronze medal - 163rd place - Top 6%] :3rd_place_medal:
-  - [SIIM-ISIC Melanoma Classification](https://github.com/dimitreOliveira/melanoma-classification) [Bronze medal - 241st place - Top 8%] :3rd_place_medal:
-  - [Understanding Clouds from Satellite Images](https://github.com/dimitreOliveira/UnderstandingCloudsFromSatelliteImages) [184th place - Top 12%]
-  - [iMet Collection 2019 - FGVC6](https://github.com/dimitreOliveira/iMet-Collection-2019-FGVC6) [226th place - Top 44%]
-- :page_facing_up: Natural language processing
-  - [Tweet Sentiment Extraction](https://github.com/dimitreOliveira/Tweet-Sentiment-Extraction) [Silver medal - 60th place - Top 3%] :2nd_place_medal:
-  - [Jigsaw Multilingual Toxic Comment Classification](https://github.com/dimitreOliveira/Jigsaw-Multilingual-Toxic-Comment-Classification) [Bronze medal - 100th place - Top 7%] :3rd_place_medal:
-  - [Google QUEST Q&A Labeling](https://github.com/dimitreOliveira/Google-QUEST-QA-Labeling) [171st place - Top 11%]
-  - [Jigsaw Unintended Bias in Toxicity Classification](https://github.com/dimitreOliveira/Jigsaw-UnintendedBiasInToxicityClassification) [351st place- Top 12%]
-- :chart_with_upwards_trend: Time-series
-  - [Store Item Demand Forecasting](https://github.com/dimitreOliveira/StoreItemDemand) [117th place - Top 26%]
-  - [New York City Taxi Fare Prediction](https://github.com/dimitreOliveira/NewYorkCityTaxiFare) [409th place - Top 28%]
+  - [Gaze Tracking](https://github.com/mokhinurabdurakhimova/Gaze_Tracking) 
+  - [Drowsiness Detection](https://github.com/mokhinurabdurakhimova/Drowsiness-Detection) 
   
 - :card_file_box: Other structured data projects
-  - [Instant Gratification](https://github.com/dimitreOliveira/InstantGratification) [231st place- Top 13%]
-  - [OpenVaccine: COVID-19 mRNA Vaccine Degradation Prediction](https://github.com/dimitreOliveira/COVID-19-Vaccine-Degradation-Prediction) [226th place - Top 14%]
-  - [Microsoft Malware Prediction](https://github.com/dimitreOliveira/MicrosoftMalwarePrediction) [580th place - Top 24%]
+  - [Tabular Playground Series - May 2022](https://www.kaggle.com/competitions/tabular-playground-series-may-2022/overview/evaluation) [176st place- Top 13%]
+  - [Tabular Playground Series - Febuary 2022](https://www.kaggle.com/competitions/tabular-playground-series-feb-2022) [208th place - Top 14%]
+  - [Tabular Playground Series - March 2022](https://www.kaggle.com/competitions/tabular-playground-series-mar-2022) [268th place - Top 24%]
 ---
 Thanks for passing by.
